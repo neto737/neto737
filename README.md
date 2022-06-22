@@ -1,10 +1,10 @@
 # Hi there, I'm Neto 👋
 
 <a href="https://github.com/neto737">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=neto737&show_icons=true&theme=radical">
+  <img align="center" height="175rem" src="https://github-readme-stats.vercel.app/api?username=neto737&show_icons=true&theme=radical">
 </a>
 <a href="https://github.com/neto737">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neto737&layout=compact&theme=radical">
+  <img align="center" height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neto737&layout=compact&theme=radical">
 </a>
 
 ## Languages, Frameworks and Tools
