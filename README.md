@@ -31,7 +31,7 @@
 [![Instagram](https://img.shields.io/badge/@neto737-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_neto737)
 [![Twitter](https://img.shields.io/badge/@neto737-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/neto737)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/neto737)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubirajara-neto-43725a17a/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neto737/)
 <!--
 **neto737/neto737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
