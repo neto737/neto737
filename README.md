@@ -5,7 +5,7 @@
     <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=neto737&show_icons=true&theme=radical">
   </a>
   <a href="https://github.com/neto737">
-    <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neto737&layout=compact&theme=radical">
+    <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neto737&layout=compact&theme=radical&exclude_repo=Phoenix_3.0">
   </a>
 </div>
 
